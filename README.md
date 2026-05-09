@@ -144,3 +144,5 @@ I would have made it more difficult, added sound effects and more animation if I
 - "sketch.js" - main game code
 - "README.md" - project documentation
 - "individual-contribution-yasin.txt" - individual contribution file
+
+[Read my individual contribution file](individual-contribution-yasin.txt)
